@@ -9,7 +9,7 @@ A dislocation-only cbBTC trading bot: it waits for a real washout (15-minute ret
 ## Run it
 
 ```sh
-python3 main.py
+node main.ts
 ```
 
 ---
